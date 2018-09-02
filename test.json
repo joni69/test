@@ -1,0 +1,24 @@
+{
+"data" = [
+{"id":1,"name":"Snake, carpet","categori":"#9f2b4c","gender":"Female"},
+{"id":2,"name":"Seal, common","categori":"#e329c7","gender":"Male"},
+{"id":3,"name":"Salmon, sockeye","categori":"#ccb2f8","gender":"Male"},
+{"id":4,"name":"Banded mongoose","categori":"#ca6092","gender":"Male"},
+{"id":5,"name":"Crimson-breasted shrike","categori":"#e4f7cc","gender":"Male"},
+{"id":6,"name":"Racer snake","categori":"#8de3ca","gender":"Female"},
+{"id":7,"name":"Golden eagle","categori":"#8223b7","gender":"Female"},
+{"id":8,"name":"American buffalo","categori":"#10fd11","gender":"Female"},
+{"id":9,"name":"Armadillo, seven-banded","categori":"#1c606a","gender":"Female"},
+{"id":10,"name":"Stork, marabou","categori":"#2cd499","gender":"Male"},
+{"id":11,"name":"White-throated toucan","categori":"#e565f8","gender":"Female"},
+{"id":12,"name":"Western pygmy possum","categori":"#89a832","gender":"Male"},
+{"id":13,"name":"Common turkey","categori":"#7d3750","gender":"Female"},
+{"id":14,"name":"Oriental short-clawed otter","categori":"#754fbb","gender":"Male"},
+{"id":15,"name":"Goanna lizard","categori":"#bf2cd9","gender":"Female"},
+{"id":16,"name":"Striated heron","categori":"#db2f5d","gender":"Female"},
+{"id":17,"name":"Herring gull","categori":"#7cf5b1","gender":"Female"},
+{"id":18,"name":"Water moccasin","categori":"#dc0280","gender":"Female"},
+{"id":19,"name":"Macaw, blue and gold","categori":"#18471c","gender":"Male"},
+{"id":20,"name":"Dove, white-winged","categori":"#0b7e8a","gender":"Male"}
+]
+}
